@@ -30,3 +30,10 @@ There are 18 columns in the dataset as follows:
 16. 'GitHub Link': The GitHub repository link associated with the manuscript, if specified.
 17. 'Video Link': The presentation link for the manuscript, if specified.
 18. 'Conference': Conference at which the manuscript has been published. (ACL/ EMNLP)
+
+## Dependencies:
+- python 3.7.12
+- re 2.2.1
+- nltk 3.2.5
+- gensim 4.1.2
+- sklearn 1.0.1
