@@ -7,7 +7,7 @@ Empirical Methods in Natural Language Processing (EMNLP) is a leading conference
 
 The dataset contains information on the various papers from both venues (ACL and EMNLP) that were published from 2016 until 2021 (last 5 years).
 
-### Data Scraping
+### Data scraping
 I created a web scraper in Python to scrape the data from the official website of ACL. After understanding the structure of the website (by looking at the source code) for a day, I decided on the components I required for my analysis and created a Python script to scrape the web pages.
 
 ### Data description
