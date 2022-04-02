@@ -78,4 +78,4 @@ There are 18 columns in the dataset as follows:
     4. look, extreme, homogenous, augmenting, readily, polarities, eventually, contrasting. recommending, modification
     5. translation, hindi, marathi, afrl, laboratory, english, tamil, force, describes, campaign
 
-Please give a 🌟 if you found this repository useful in any manner.
+*Please give a 🌟 if you found this repository useful in any manner.*
