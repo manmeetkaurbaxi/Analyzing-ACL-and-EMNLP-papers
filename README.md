@@ -39,3 +39,13 @@ There are 18 columns in the dataset as follows:
 - nltk 3.2.5
 - gensim 4.1.2
 - sklearn 1.0.1
+
+## Key Takeaways:
+- The number of papers published at ACL was higher in 2016 and 2019 than EMNLP and equal in 2017. However, in 2018, 2020 and 2021, the number of articles published at EMNLP was higher than that at ACL.
+![](results/EDA/papers-per-yr.png)
+- The number of GitHub repositories was approximately half the total number of papers submitted at these venues. They were almost equal in 2016 and 2017 at both venues, ACL leading in 2019 and EMNLP leading in 2018, 2020 and 2021.
+![](results/EDA/papers-with-code-per-yr.png)
+- As for presentation links, before COVID-19, i.e., 2020, almost all conferences were in-person and did not have the same number of presentation video links compared to the number of papers published. In 2016 and 2021, there were no presentation links for the papers published at ACL, and EMNLP always had a higher number of papers with presentation links, noticing a sudden spike in 2021, as most of the conferences were conducted virtually.
+![](results/EDA/papers-with-video-per-yr.png)
+- When checked for the top-10 bigrams in the title of the research articles submitted at both the venues, both of them had a similar set of keywords occurring in their titles, like, ‘(machine, translation)’, ‘(neural, machine)’, ‘(natural, language)’, ‘(question, answering)’ indicating similarities in the venues. Additionally, for ACL, task-based research articles were also published, like, SemEval-2021.
+<img src="https://github.com/manmeetkaurbaxi/Analyzing-ACL-and-EMNLP-papers/blob/main/results/EDA/overall-bigrams-acl.png" width="475"> <img src="https://github.com/manmeetkaurbaxi/Analyzing-ACL-and-EMNLP-papers/blob/main/results/EDA/overall-bigrams-emnlp.png" width="475">
