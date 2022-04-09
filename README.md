@@ -52,26 +52,34 @@ There are 18 columns in the dataset as follows:
 - The same trend can be noticed for the trigrams in the titles of the research articles for both the venues with the top ones being *‘(neural, machine, translation)’* and *‘(named, entity, recognition)’*.
 
 <img src="https://github.com/manmeetkaurbaxi/Analyzing-ACL-and-EMNLP-papers/blob/main/results/EDA/overall-trigrams-acl.png" width="475"> <img src="https://github.com/manmeetkaurbaxi/Analyzing-ACL-and-EMNLP-papers/blob/main/results/EDA/overall-trigrams-emnlp.png" width="475">
-- The **top-5 topics yielded by LDA** topic modelling on the
-  a. **titles of research articles published at ACL** were:
+- The **top-5 topics yielded by LDA** topic modelling on the 
+    
+    a. **titles of research articles published at ACL** were:
+    
     1. detection, entity, extraction, attention, recognition, classification, relation, knowledge, networks, named
     2. parsing, semantic, dependency, sequence, semeval, task, neural, lexical, error, models
     3. translation, machine, neural, word, domain, learning, unsupervised, summarization, speech, multi
     4. language, neutral, task, generation, shared, models, processing, news, corpus, learning
-    5. cross, learning, lingual, reading, comprehension, transfer, text, data, gender, language
-  b. **titles of research articles published at EMNLP** were:
+    5. cross, learning, lingual, reading, comprehension, transfer, text, data, gender, language 
+    
+    b. **titles of research articles published at EMNLP** were:
+    
     1. language, natural, models, inference, reasoning, knowledge, commonsense, understanding, generation, trained
     2. summarization, recognition, entity, named, text, neural, abstractive, models, transformer, document
     3. learning, semantic, parsing, extraction, classification, text, relation, graph, based, networks
     4. translation, machine, neural, task, question, answering, systems, domain, shared
-    5. word, detection, media, covid, bert, using, learning, bias, detecting
-  c. **abstract of research articles published at ACL** were:
+    5. word, detection, media, covid, bert, using, learning, bias, detecting 
+    
+    c. **abstract of research articles published at ACL** were:
+    
     1. poetry, poetic, distinguishing, insufficient, proving, mechanical, lesser, reproduction, proliferation, witnessed
     2. social, media, twitter, news, users, sarcasm, political, user, tweets, online
     3. tone, transducers, finite, reduplication, syllable, full, morpho, phonotactic, state, manage
     4. subregular, stress, tier, default, strictly, uniformly, argued, unbounded, favor, motivate
-    5. translation, model, task, models, language, data, word, text, training, learning
-  d. **abstract of research articles published at EMNLP** were:
+    5. translation, model, task, models, language, data, word, text, training, learning 
+    
+    d. **abstract of research articles published at EMNLP** were:
+    
     1. translation, data, language, models, task, text, training, word, knowledge, learning
     2. poisoning, backdoor, clients, attack, victim, sketch, vulnerability
     3. develops, theory, optimality, convex, phonological, algorithmic, orders, geometry, homogenous, augmenting
