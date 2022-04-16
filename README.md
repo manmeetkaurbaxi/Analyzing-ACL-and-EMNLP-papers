@@ -1,5 +1,5 @@
 # Analyzing ACL and EMNLP papers
-In this project, I have performed a text analysis of the papers published at ACL and EMNLP for the last 6 years, i.e., from 2016 to 2021. 
+Performed text analysis using ‘nltk’, ‘genism’ and ‘sklearn’ of the papers published at ACL and EMNLP by scraping the information from the official ACL website for the last 6 years, i.e., from 2016 to 2021. 
 
 ## About ACL and EMNLP
 The Association for Computational Linguistics (ACL) is the international scientific and professional society for people working on problems involving natural language and computation. An annual meeting is held each summer in locations where significant computational linguistics research is carried out. It was founded in 1962, originally named the Association for Machine Translation and Computational Linguistics (AMTCL). It became the ACL in 1968.
