@@ -7,7 +7,7 @@ The Association for Computational Linguistics (ACL) is the international scienti
 Empirical Methods in Natural Language Processing (EMNLP) is a leading conference in the area of natural language processing and artificial intelligence. Along with the Association for Computational Linguistics (ACL), it is one of the two primary high-impact conferences for natural language processing research. EMNLP is organized by the ACL special interest group on linguistic data (SIGDAT) and was started in 1996, based on an earlier conference series called Workshop on Very Large Corpora (WVLC).
 
 ## Dataset (Hosted on [Kaggle](https://www.kaggle.com/datasets/manmeetkaur07/acl-emnlp-201621))
-The dataset contains information on the various papers from both venues (ACL and EMNLP) that were published from 2016 until 2021 (last 5 years) and has been sourced from the official website of [ACL](https://aclanthology.org/).
+The dataset contains information on the various papers from both venues (ACL and EMNLP) that were published from 2016 until 2021 and has been sourced from the official website of [ACL](https://aclanthology.org/).
 
 ### Data scraping
 I created a web scraper in Python to scrape the data from the official website of ACL. After understanding the structure of the website (by looking at the source code) for a day, I decided on the components I required for my analysis and created a Python script to scrape the web pages.
